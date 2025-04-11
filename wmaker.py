@@ -31,7 +31,7 @@ def generate_hex_numbers(key, count):
 
 
 key = 'satoshi'  
-scount = int(input ("Enter Start BitRange : "))
-count = int(input ("Enter End BitRange : "))
+scount = int(input ("Enter Start BitRange : "))-1
+count = int(input ("Enter End BitRange : "))-1
 key = input ("Enter Phrase pass : ")
 hex_values = generate_hex_numbers(key, count)
