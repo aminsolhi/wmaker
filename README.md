@@ -46,7 +46,7 @@ Enter Phrase pass : satoshi
 The program will generate a table of hexadecimal values based on the valid input:
 
 ```
-Index   Hex Value                 Start Range                    End Range
+BitRng  Hex Value                 Start Range                    End Range
 ------------------------------------------------------------------------------------------------
 65      1fce64699293df698         10000000000000000              20000000000000000
 66      2436855addf38335a         20000000000000000              40000000000000000
