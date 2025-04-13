@@ -15,7 +15,7 @@ def generate_hex_numbers(key, count):
     end_range_width = 30  
 
   
-    print(f"{'Index':<{index_width}} {'Hex Value':<{hex_width}} {'Start Range':<{start_range_width}} {'End Range':<{end_range_width}}")  
+    print(f"{'BitRange':<{index_width}} {'Hex Value':<{hex_width}} {'Start Range':<{start_range_width}} {'End Range':<{end_range_width}}")  
     print("-" * (index_width + hex_width + start_range_width + end_range_width + 4))  
 
     for i in range(scount, count + 1):  
