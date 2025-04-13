@@ -16,7 +16,7 @@ This program generates random hexadecimal values within a specified bit range us
 
 To use this program, ensure that Python (version 3 or higher) is installed on your system. Then follow these steps:
 
-1. Download the program and save it in a file with a `.py` extension.
+1. Download the program and save it in a file with a `wmaker.py` extension.
 2. Navigate to the folder where the file is saved using your terminal or command prompt.
 3. Run the program using the following command:
 
@@ -68,6 +68,6 @@ For any questions or assistance, feel free to contact me:
 ### Developer Information
 - **Name:** Amin Solhi
 - **Email:** [amin.solhi@gmail.com](mailto:amin.solhi@gmail.com)
-- **Phone:** +9891111842779
+- **Phone:** +989111842779
 ---
 
